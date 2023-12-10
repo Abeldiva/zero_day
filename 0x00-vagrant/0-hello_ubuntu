@@ -1,1 +1,1 @@
-prints the Kernel name, the same as using the -s option.
+prints the Kernel name, the same as using the -s option. In this case, it will prin Linux.
